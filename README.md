@@ -2,7 +2,7 @@
 ![](https://github.com/hector-aps/Calculadora/blob/main/Imagen.png?raw=true)
 
 
-Una calculadora simple, muy útil para hacer cálculos.
+Una calculadora simple, muy útil para hacer cálculos :v.<br>
 El codigo es muy corto y funciona unicamente con **3 funciones** ayudandose de 3 variables de control, las cuales son las siguientes:
 
 - **operacion:** Guarda la operacion que esta en curso.
